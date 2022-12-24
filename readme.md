@@ -1,0 +1,1 @@
+Este projeto é um projeto intermediário para a construção de um sistema de computação distribuida para BigData. A documentação será escrita no dercorrer dos dias (caso seja levada adiante).
